@@ -8,10 +8,7 @@ abstract: >-
   Cardiac thin filament and actin filament structure from Zebrafish 
 cover:          /assets/images/covers/Picture2.png
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- 
 links:
   Paper: https://link.springer.com/article/10.1007/s10974-023-09653-5
 ---
