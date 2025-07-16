@@ -2,10 +2,10 @@ primary_name: "Paul Lab"
 secondary_name: ""
 navbar_name: "Paul Lab"
 
-# positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-#   name: Position 1 with logo
-# - name: Position 2 without logo
+positions:
+- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+   name: Position 1 with logo
+- name: Position 2 without logo
 
 
 email: "danielle.paul@bristol.ac.uk"
@@ -53,7 +53,7 @@ education:
 awards:
 - name: Award Name 2
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+#- name: Award Name 1 
+#  date: 2021
+#- name: A quick brown fox jumps over the lazy dog and runs away award
+#  date: 2021
