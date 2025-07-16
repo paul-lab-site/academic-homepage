@@ -29,8 +29,8 @@
                             </div>
                             {% endif %}
                         </div>
-                        <div class="text-profile-position">
-                            {% for position in site.data.profile.positions %}
+                        <div class="text-profile-group">
+                            {% for position in site.data.profile.group %}
                             {% if position.logo -%}
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
                             {%- endif %}
