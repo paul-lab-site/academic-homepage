@@ -35,8 +35,8 @@ portrait_url: /assets/images/photos/act.png
 portrait_caption: >-
   Example Thin Filament structure generated using Cryo-EM
 
-education:
-- name: Massachusetts Institute of Technology
+Institute:
+- name: University of Bristol
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
