@@ -31,7 +31,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/act.png
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Example Thin Filament structure generated using Cryo-EM
 
 education:
 - name: Massachusetts Institute of Technology
