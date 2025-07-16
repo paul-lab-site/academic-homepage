@@ -1,17 +1,17 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Zebrafish as a model for cardiac disease; Cryo-EM structure of native cardiac thin filaments from Danio Rerio"
+date:           2023-07-22 
 selected:       true
-pub:            "Nature Communications"
+pub:            "Journal of Muscle Research and Cell Motility "
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  Cardiac thin filament and actin filament structure from Zebrafish 
+cover:          /assets/images/covers/Picture2.png
 authors:
 - Your Name*
 - Robert White*
 - John Doe
 - Charles Green (Stanford)
 links:
-  Paper: https://www.cell.com
+  Paper: https://link.springer.com/article/10.1007/s10974-023-09653-5
 ---
