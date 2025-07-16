@@ -17,6 +17,6 @@ authors:
   - Some Other Name
   - John Doe
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+#  Code: https://github.com/luost26/academic-homepage
+  Unsplash: https://www.nature.com/articles/s41467-024-50424-8
 ---
