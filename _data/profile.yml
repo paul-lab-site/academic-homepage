@@ -35,17 +35,13 @@ portrait_url: /assets/images/photos/act.png
 portrait_caption: >-
   Example Thin Filament structure generated using Cryo-EM
 
-Institute:
+affiliations:
 - name: University of Bristol
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Translational Health Sciences
+  date: Jul. 2025 - present
+
 
 # experience:
 # - name: Peking University
