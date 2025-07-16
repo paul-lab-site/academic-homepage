@@ -12,10 +12,7 @@ abstract: >-
   Actin visualised inside microtubules of the marginal band of a human platelet.
 cover:          /assets/images/covers/Platelet.png
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Tsuji, et al.
 links:
 #  Code: https://github.com/luost26/academic-homepage
   Paper: https://www.nature.com/articles/s41467-024-50424-8
